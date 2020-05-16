@@ -8,4 +8,12 @@ while count <= 5 do
 end
 end
 
-  
+ def loop_message_n_times (message, limit)
+  count = 0
+while count <= 5 do
+  puts message
+  count = count + 1 
+end
+end
+
+   
