@@ -30,4 +30,5 @@ while count < array.length do
   array[count].to_s
     count = count + 1 
 end
+array
 end  
