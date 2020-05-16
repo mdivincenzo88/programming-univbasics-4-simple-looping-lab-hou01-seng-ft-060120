@@ -2,5 +2,5 @@
 
 count = 0 
 
-while message <
+while message.length<counter
   
