@@ -2,5 +2,6 @@
 
 count = 0 
 
-while message.length<counter
+while message.length<counter do
+  puts array[counter]
   
